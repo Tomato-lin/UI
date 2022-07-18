@@ -1,0 +1,2 @@
+.
+-DCATKIN_DEVEL_PREFIX=/home/ly/catkin_GUI/devel -DCMAKE_INSTALL_PREFIX=/home/ly/catkin_GUI/install -G Unix Makefiles
